@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\bin\Debug\net6.0\Homework003_Task23.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\bin\Debug\net6.0\Homework003_Task23.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\bin\Debug\net6.0\Homework003_Task23.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\bin\Debug\net6.0\Homework003_Task23.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\bin\Debug\net6.0\Homework003_Task23.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\refint\Homework003_Task23.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\Homework003_Task23.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task23_RangeRiseToTheThirdPower\obj\Debug\net6.0\ref\Homework003_Task23.dll

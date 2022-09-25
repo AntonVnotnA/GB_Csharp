@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll

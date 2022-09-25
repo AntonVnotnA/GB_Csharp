@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll

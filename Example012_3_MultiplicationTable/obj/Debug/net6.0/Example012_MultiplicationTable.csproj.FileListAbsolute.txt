@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\bin\Debug\net6.0\Example012_MultiplicationTable.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\bin\Debug\net6.0\Example012_MultiplicationTable.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\bin\Debug\net6.0\Example012_MultiplicationTable.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\bin\Debug\net6.0\Example012_MultiplicationTable.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\bin\Debug\net6.0\Example012_MultiplicationTable.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\refint\Example012_MultiplicationTable.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\Example012_MultiplicationTable.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_MultiplicationTable\obj\Debug\net6.0\ref\Example012_MultiplicationTable.dll

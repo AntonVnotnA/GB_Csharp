@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\bin\Debug\net6.0\Example012_SymbolsSubstitution.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\bin\Debug\net6.0\Example012_SymbolsSubstitution.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\bin\Debug\net6.0\Example012_SymbolsSubstitution.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\bin\Debug\net6.0\Example012_SymbolsSubstitution.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\bin\Debug\net6.0\Example012_SymbolsSubstitution.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\refint\Example012_SymbolsSubstitution.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\Example012_SymbolsSubstitution.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_SymbolsSubstitution\obj\Debug\net6.0\ref\Example012_SymbolsSubstitution.dll

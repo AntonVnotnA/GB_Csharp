@@ -1,0 +1,69 @@
+// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+using static System.Console;
+Clear();
+
+Write("Print a number from 100 to 999 : ");
+int number = int.Parse(ReadLine()!);
+int secondDigit = number/10 % 10;
+WriteLine($"Second digit of the number is {secondDigit}");
+
+
+
+// Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
+using static System.Console;
+Clear();
+
+Write("Please write a number : ");
+
+int number = int.Parse(ReadLine()!);
+string result = string.Empty;
+int samenumber = number; //ввел переменную samenumber для того чтобы в Writeline выводить в том числе значение {number}, в противном случае получал 0
+
+while (samenumber > 0)
+{
+    result += samenumber % 10;
+    samenumber /= 10;
+}
+
+int rotatednumber = int.Parse(result);
+
+int thirddigit = rotatednumber / 100 % 10;
+
+if (thirddigit == 0)
+{
+    WriteLine($"There is no third digit in the number {number}");
+}
+else
+{
+    WriteLine($"{thirddigit} is third digit in the number {number}");
+}
+
+
+
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+using static System.Console;
+Clear();
+
+Write("Please print a week day number from 1 to 7 : ");
+int daynumber = Convert.ToInt32(ReadLine()!);
+string[] weekdays = { "Monday", "Tuesday", "Wednesday", " Thursday", "Friday", "Saturday", "Sunday" };
+int indexdaynumber = daynumber - 1;
+
+if (daynumber >0 && daynumber < 8)
+{
+    if (daynumber < 6)
+    {
+        WriteLine($"{weekdays[indexdaynumber]} is the workday");
+    }
+    else
+    {
+        WriteLine($"{weekdays[indexdaynumber]} is the holiday");
+    }
+}
+else
+{
+    WriteLine("Incorrect number.");
+}

@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\bin\Debug\net6.0\Homework003_Task19.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\bin\Debug\net6.0\Homework003_Task19.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\bin\Debug\net6.0\Homework003_Task19.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\bin\Debug\net6.0\Homework003_Task19.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\bin\Debug\net6.0\Homework003_Task19.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\refint\Homework003_Task19.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\Homework003_Task19.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Homework003_Task19_Palindrome\obj\Debug\net6.0\ref\Homework003_Task19.dll

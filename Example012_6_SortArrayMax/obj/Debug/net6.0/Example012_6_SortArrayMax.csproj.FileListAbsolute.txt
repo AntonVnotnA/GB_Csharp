@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\bin\Debug\net6.0\Example012_6_SortArrayMax.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\bin\Debug\net6.0\Example012_6_SortArrayMax.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\bin\Debug\net6.0\Example012_6_SortArrayMax.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\bin\Debug\net6.0\Example012_6_SortArrayMax.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\bin\Debug\net6.0\Example012_6_SortArrayMax.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\refint\Example012_6_SortArrayMax.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\Example012_6_SortArrayMax.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\02_lecture\C#\C_sharp_programs\GB_C_sharp\Example012_6_SortArrayMax\obj\Debug\net6.0\ref\Example012_6_SortArrayMax.dll
