@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\bin\Debug\net6.0\Homework004_Task27_SumOfDigit.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\bin\Debug\net6.0\Homework004_Task27_SumOfDigit.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\bin\Debug\net6.0\Homework004_Task27_SumOfDigit.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\bin\Debug\net6.0\Homework004_Task27_SumOfDigit.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\bin\Debug\net6.0\Homework004_Task27_SumOfDigit.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\refint\Homework004_Task27_SumOfDigit.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\Homework004_Task27_SumOfDigit.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task27_SumOfDigit\obj\Debug\net6.0\ref\Homework004_Task27_SumOfDigit.dll

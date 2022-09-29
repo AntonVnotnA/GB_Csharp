@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\bin\Debug\net6.0\Seminar004_Task6_MethodArray.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\bin\Debug\net6.0\Seminar004_Task6_MethodArray.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\bin\Debug\net6.0\Seminar004_Task6_MethodArray.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\bin\Debug\net6.0\Seminar004_Task6_MethodArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\bin\Debug\net6.0\Seminar004_Task6_MethodArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\refint\Seminar004_Task6_MethodArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\Seminar004_Task6_MethodArray.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task6_MethodArray\obj\Debug\net6.0\ref\Seminar004_Task6_MethodArray.dll

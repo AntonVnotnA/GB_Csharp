@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Homework002_Task10\\Homework002_Task10.csproj": {}
+    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Homework002_Task10_SecondDigit\\Homework002_Task10.csproj": {}
   },
   "projects": {
-    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Homework002_Task10\\Homework002_Task10.csproj": {
+    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Homework002_Task10_SecondDigit\\Homework002_Task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Homework002_Task10\\Homework002_Task10.csproj",
+        "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Homework002_Task10_SecondDigit\\Homework002_Task10.csproj",
         "projectName": "Homework002_Task10",
-        "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Homework002_Task10\\Homework002_Task10.csproj",
+        "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Homework002_Task10_SecondDigit\\Homework002_Task10.csproj",
         "packagesPath": "C:\\Users\\aaverin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Homework002_Task10\\obj\\",
+        "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Homework002_Task10_SecondDigit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aaverin\\AppData\\Roaming\\NuGet\\NuGet.Config"

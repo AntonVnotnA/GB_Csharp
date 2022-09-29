@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\bin\Debug\net6.0\Seminar004_Task4_MethodFactorial.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\bin\Debug\net6.0\Seminar004_Task4_MethodFactorial.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\bin\Debug\net6.0\Seminar004_Task4_MethodFactorial.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\bin\Debug\net6.0\Seminar004_Task4_MethodFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\bin\Debug\net6.0\Seminar004_Task4_MethodFactorial.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\refint\Seminar004_Task4_MethodFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\Seminar004_Task4_MethodFactorial.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_Task4_MethodFactorial\obj\Debug\net6.0\ref\Seminar004_Task4_MethodFactorial.dll

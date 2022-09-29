@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\bin\Debug\net6.0\Seminar004_MethodSumFromOneToA.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\bin\Debug\net6.0\Seminar004_MethodSumFromOneToA.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\bin\Debug\net6.0\Seminar004_MethodSumFromOneToA.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\bin\Debug\net6.0\Seminar004_MethodSumFromOneToA.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\bin\Debug\net6.0\Seminar004_MethodSumFromOneToA.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\refint\Seminar004_MethodSumFromOneToA.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\Seminar004_MethodSumFromOneToA.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar004_MethodSumFromOneToA\obj\Debug\net6.0\ref\Seminar004_MethodSumFromOneToA.dll

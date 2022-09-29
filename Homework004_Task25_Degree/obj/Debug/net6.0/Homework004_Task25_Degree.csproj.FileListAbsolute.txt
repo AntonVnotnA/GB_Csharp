@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\bin\Debug\net6.0\Homework004_Task25_Degree.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\bin\Debug\net6.0\Homework004_Task25_Degree.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\bin\Debug\net6.0\Homework004_Task25_Degree.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\bin\Debug\net6.0\Homework004_Task25_Degree.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\bin\Debug\net6.0\Homework004_Task25_Degree.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\refint\Homework004_Task25_Degree.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\Homework004_Task25_Degree.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework004_Task25_Degree\obj\Debug\net6.0\ref\Homework004_Task25_Degree.dll
