@@ -1,5 +1,4 @@
 ﻿// Задача 27: Напишите метод, который принимает на вход число и выдаёт сумму цифр в числе.
-// не понимаю в чем ошибка, почему % не берет остаток от деления
 
 using static System.Console;
 Clear();
@@ -17,8 +16,10 @@ int GetSumOfDigits(int number)
     int result = 0;
     for(int i = 0; i <= numberLength; i++)
     {
-        number = number % 10;
-        result += number;
+        // number = number % 10; // не понимаю в чем ошибка, почему в этом случае % не берет остаток от деления
+        // result += number; // не понимаю в чем ошибка, почему в этом случае % не берет остаток от деления
+        result += number % 10;
+        number /= 10;
     }
     return result;
 }

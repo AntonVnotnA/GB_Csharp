@@ -1,0 +1,88 @@
+// Задача 25: Напишите метод, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B с использованием цикла.
+
+using static System.Console;
+Clear();
+
+Write("Print number A : ");
+int A = int.Parse(ReadLine()!);
+
+Write("Print number B : ");
+int B = int.Parse(ReadLine()!);
+
+int number = GetDegree(A, B);
+WriteLine($"A^B = {number}");
+
+int GetDegree(int firstNumber, int secondNumber)
+{
+    int result = 1;
+    for(int i = 1; i <= secondNumber; i++)
+    {
+        result *= firstNumber;
+    }
+    return result;
+}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Задача 27: Напишите метод, который принимает на вход число и выдаёт сумму цифр в числе.
+// !!! не понимаю в чем ошибка, почему % не берет остаток от деления
+
+using static System.Console;
+Clear();
+
+Write("Print number : ");
+int A = int.Parse(ReadLine()!);
+
+int digitSum = GetSumOfDigits(A);
+WriteLine($"Sum of digits in the number is {digitSum}");
+
+
+int GetSumOfDigits(int number)
+{
+    int numberLength = (Convert.ToString(number)).Length;
+    int result = 0;
+    for(int i = 0; i <= numberLength; i++)
+    {
+        number = number % 10;
+        result += number;
+    }
+    return result;
+}
+
+// Write((Convert.ToString(A)).Length); // вычисление длины числа. проверка
+// WriteLine(A % 10); // остаток от деления. проверка
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Задача 29: Напишите метод, который формирует массив из 8 случайных элементов и выводит их на экран.
+// !!! не понял как сделать массив из double, запутался с типами данных
+
+using static System.Console;
+Clear();
+
+WriteLine("Print a size of the array : ");
+int size = int.Parse(ReadLine()!);
+int[] array = GetArray(size);
+
+PrintArray(array);
+
+
+int[] GetArray(int length)
+{
+    int[] result = new int[length];
+    for(int i = 0; i < length; i++)
+    {
+        result[i] = new Random().Next();
+    }
+    return result;
+}
+
+void PrintArray(int[] inArray)
+{
+    Write("Random array is [");
+    for(int i = 0; i < inArray.Length-1; i++)
+    {
+        Write($"{inArray[i]}, ");
+    }
+    Write($"{inArray[inArray.Length-1]}]");
+}
