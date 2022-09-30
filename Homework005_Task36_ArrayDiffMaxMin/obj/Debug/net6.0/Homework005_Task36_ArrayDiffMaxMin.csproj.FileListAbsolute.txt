@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\bin\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\bin\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\bin\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\bin\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\bin\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\refint\Homework005_Task36_ArrayDiffMaxMin.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\Homework005_Task36_ArrayDiffMaxMin.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task36_ArrayDiffMaxMin\obj\Debug\net6.0\ref\Homework005_Task36_ArrayDiffMaxMin.dll

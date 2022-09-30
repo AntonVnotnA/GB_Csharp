@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\bin\Debug\net6.0\Homework005_Task34_ArrayQtyEven.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\bin\Debug\net6.0\Homework005_Task34_ArrayQtyEven.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\bin\Debug\net6.0\Homework005_Task34_ArrayQtyEven.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\bin\Debug\net6.0\Homework005_Task34_ArrayQtyEven.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\bin\Debug\net6.0\Homework005_Task34_ArrayQtyEven.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\refint\Homework005_Task34_ArrayQtyEven.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\Homework005_Task34_ArrayQtyEven.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework005_Task34_ArrayQtyEven\obj\Debug\net6.0\ref\Homework005_Task34_ArrayQtyEven.dll
