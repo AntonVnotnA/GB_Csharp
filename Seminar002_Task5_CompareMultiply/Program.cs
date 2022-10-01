@@ -4,9 +4,9 @@ using static System.Console;
 Clear();
 
 WriteLine("Print first number : ");
-int num1 = Convert.ToInt32(ReadLine()!); 
+int num1 = Convert.ToInt32(ReadLine()!);
 WriteLine("Print second number : ");
-int num2 = Convert.ToInt32(ReadLine()!); 
+int num2 = Convert.ToInt32(ReadLine()!);
 
 if (num2 > num1)
 {

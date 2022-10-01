@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Seminar002_Task1\\Seminar002_Task1.csproj",
+      "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar002_Task1_BiggestDigitFromNumber\\Seminar002_Task1.csproj",
       "projectName": "Seminar002_Task1",
-      "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Seminar002_Task1\\Seminar002_Task1.csproj",
+      "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar002_Task1_BiggestDigitFromNumber\\Seminar002_Task1.csproj",
       "packagesPath": "C:\\Users\\aaverin\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Seminar002_Task1\\obj\\",
+      "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar002_Task1_BiggestDigitFromNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aaverin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIGVt69X7lWQZ4RqUhIB7aOecf+jxfkeK+ufpisHxN3xdS734kO9059YTSVijWICRdtubHV2ZqT+o3Ohn64ewg==",
+  "dgSpecHash": "YYinFyFk5RF+5WOQPq0jgPGIVgU1DJFaMcP5EOQ/GppTjknLLTVffgKa8LzzLbLLUdJRZ8FpNVPrwMbBvrWadQ==",
   "success": true,
-  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Seminar002_Task1\\Seminar002_Task1.csproj",
+  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar002_Task1_BiggestDigitFromNumber\\Seminar002_Task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

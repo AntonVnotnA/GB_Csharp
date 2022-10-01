@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5XIiXDKwvl2dOANDyGAZOjCInLLi+ZLHuHB7nNi15iXej592ragh52pkhnCAk7i4o7c7HicEcuLJ4ZFjTChcg==",
+  "dgSpecHash": "pQNmidCTF8ndYbyaYrknC3tKd0OfHsqbf4j4M60Pv02rLH8arHY/nKmFF+a/tH48aUCtp6hcRLkVaQS+5h/bNg==",
   "success": true,
-  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Seminar002_Task2\\Seminar002_Task2.csproj",
+  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar002_Task2_DeletSecondDigitFromNumber\\Seminar002_Task2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

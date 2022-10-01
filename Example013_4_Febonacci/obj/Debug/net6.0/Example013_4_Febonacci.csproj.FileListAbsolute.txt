@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\bin\Debug\net6.0\Example013_4_Febonacci.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\bin\Debug\net6.0\Example013_4_Febonacci.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\bin\Debug\net6.0\Example013_4_Febonacci.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\bin\Debug\net6.0\Example013_4_Febonacci.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\bin\Debug\net6.0\Example013_4_Febonacci.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\refint\Example013_4_Febonacci.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\Example013_4_Febonacci.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_4_Febonacci\obj\Debug\net6.0\ref\Example013_4_Febonacci.dll

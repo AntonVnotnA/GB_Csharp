@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\bin\Debug\net6.0\Example013_2_RecursionPaint.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\bin\Debug\net6.0\Example013_2_RecursionPaint.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\bin\Debug\net6.0\Example013_2_RecursionPaint.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\bin\Debug\net6.0\Example013_2_RecursionPaint.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\bin\Debug\net6.0\Example013_2_RecursionPaint.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\refint\Example013_2_RecursionPaint.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\Example013_2_RecursionPaint.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_2_RecursionPaint\obj\Debug\net6.0\ref\Example013_2_RecursionPaint.dll

@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\bin\Debug\net6.0\Example013_1_2DArray.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\bin\Debug\net6.0\Example013_1_2DArray.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\bin\Debug\net6.0\Example013_1_2DArray.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\bin\Debug\net6.0\Example013_1_2DArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\bin\Debug\net6.0\Example013_1_2DArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\refint\Example013_1_2DArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\Example013_1_2DArray.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_1_2DArray\obj\Debug\net6.0\ref\Example013_1_2DArray.dll

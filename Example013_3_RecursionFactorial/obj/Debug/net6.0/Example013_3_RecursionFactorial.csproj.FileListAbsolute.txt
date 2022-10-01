@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\bin\Debug\net6.0\Example013_3_RecursionFactorial.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\bin\Debug\net6.0\Example013_3_RecursionFactorial.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\bin\Debug\net6.0\Example013_3_RecursionFactorial.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\bin\Debug\net6.0\Example013_3_RecursionFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\bin\Debug\net6.0\Example013_3_RecursionFactorial.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\refint\Example013_3_RecursionFactorial.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\Example013_3_RecursionFactorial.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Example013_3_RecursionFactorial\obj\Debug\net6.0\ref\Example013_3_RecursionFactorial.dll

@@ -28,15 +28,15 @@
 
 
 //РЕШЕНИЕ ЧЕРЕЗ СТРОКУ
-// using static System.Console;
-// Clear();
-// Write("Print a number : ");
-// string number = ReadLine();
-// string result = string.Empty;
-// int index = 0;
-// while (index < number.Length)
-// {
-//     result = number[index] + result;
-//     index++;
-// }
-// WriteLine($"New rotated number is {result}");
+using static System.Console;
+Clear();
+Write("Print a number : ");
+string number = ReadLine()!;
+string result = string.Empty;
+int index = 0;
+while (index < number.Length)
+{
+    result = number[index] + result;
+    index++;
+}
+WriteLine($"New rotated number is {result}");

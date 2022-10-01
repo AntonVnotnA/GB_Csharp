@@ -35,6 +35,7 @@ int[] GetArray(int length, int minValue, int maxValue)
     for (int i = 0; i < result.Length; i++)
     {
         result[i] = rnd.Next(minValue, maxValue);
+        // result[i] = Math.Round(rnd.NextDouble()*(maxValue - minValue) + minValue, 1);
     }
     return result;
 }
