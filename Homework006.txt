@@ -42,24 +42,24 @@ Clear();
 
 WriteLine("The objective is to calculate an intersections of two lines y = k1 * x + b1 and y = k2 * x + b2");
 Write("Please print the number b1 : ");
-int b1 = int.Parse(ReadLine()!);
+double b1 = double.Parse(ReadLine()!);
 Write("Please print the number k1 : ");
-int k1 = int.Parse(ReadLine()!);
+double k1 = double.Parse(ReadLine()!);
 Write("Please print the number b2 : ");
-int b2 = int.Parse(ReadLine()!);
+double b2 = double.Parse(ReadLine()!);
 Write("Please print the number k2 : ");
-int k2 = int.Parse(ReadLine()!);
+double k2 = double.Parse(ReadLine()!);
 
 FindIntersection(b1, k1, b2, k2);
 
 
-void FindIntersection(int bb1, int kk1, int bb2, int kk2)
+void FindIntersection(double bb1, double kk1, double bb2, double kk2)
 {
-    if(kk1 != kk2)
+    if(kk1 != kk2 || kk2/kk1 != 1 || kk1 != 0)
     {
-        int x = (bb2 - bb1) / (kk1 - kk2); 
-        int y = kk1 * x + bb1;
-        WriteLine($"The poin of the intersection of two lines is ({x}, {y})");
+        double x = (bb2 - bb1) / (kk1 - kk2); 
+        double y = ((bb2 - (bb1*kk2)/kk1)) / (1 - kk2/kk1);
+        WriteLine($"The poin of the intersection of two lines is ({Math.Round(x, 2)}, {Math.Round(y, 2)})");
     }
     else WriteLine("Please try again print numbers.");
 }
