@@ -40,7 +40,7 @@ void FindNumber(int[] ourArray, int ourNumber)
     {
         if(item == ourNumber)
         {
-            WriteLine($"There is your number {ourNumber} in the array");
+            WriteLine($"There is the number {ourNumber} in the array");
             return;
         }
     }
@@ -52,5 +52,5 @@ void FindNumber(int[] ourArray, int ourNumber)
     //         return;
     //     }
     // }
-    WriteLine($"There is NO your number {ourNumber} in the array");
+    WriteLine($"There is NO the number {ourNumber} in the array");
 }

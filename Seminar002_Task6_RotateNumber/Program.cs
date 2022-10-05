@@ -31,9 +31,9 @@
 using static System.Console;
 Clear();
 Write("Print a number : ");
-string number = ReadLine()!;
-string result = string.Empty;
-int index = 0;
+string number = ReadLine()!; //считываем строку (не конвертируем)
+string result = string.Empty; // задаем пустую строку
+int index = 0; // задаем начальное значение индекса
 while (index < number.Length)
 {
     result = number[index] + result;

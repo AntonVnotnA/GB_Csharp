@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5\\Seminar005_Task5.csproj",
+      "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5_MultiNumbersInArray\\Seminar005_Task5.csproj",
       "projectName": "Seminar005_Task5",
-      "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5\\Seminar005_Task5.csproj",
+      "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5_MultiNumbersInArray\\Seminar005_Task5.csproj",
       "packagesPath": "C:\\Users\\aaverin\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5\\obj\\",
+      "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Seminar005_Task5_MultiNumbersInArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aaverin\\AppData\\Roaming\\NuGet\\NuGet.Config"

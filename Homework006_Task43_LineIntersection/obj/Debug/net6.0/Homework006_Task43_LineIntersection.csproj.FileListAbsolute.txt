@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\bin\Debug\net6.0\Homework006_Task43_LineIntersection.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\bin\Debug\net6.0\Homework006_Task43_LineIntersection.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\bin\Debug\net6.0\Homework006_Task43_LineIntersection.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\bin\Debug\net6.0\Homework006_Task43_LineIntersection.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\bin\Debug\net6.0\Homework006_Task43_LineIntersection.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\refint\Homework006_Task43_LineIntersection.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\Homework006_Task43_LineIntersection.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task43_LineIntersection\obj\Debug\net6.0\ref\Homework006_Task43_LineIntersection.dll

@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\bin\Debug\net6.0\Homework006_Task41_AboveZero.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\bin\Debug\net6.0\Homework006_Task41_AboveZero.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\bin\Debug\net6.0\Homework006_Task41_AboveZero.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\bin\Debug\net6.0\Homework006_Task41_AboveZero.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\bin\Debug\net6.0\Homework006_Task41_AboveZero.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\refint\Homework006_Task41_AboveZero.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\Homework006_Task41_AboveZero.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework006_Task41_AboveZero\obj\Debug\net6.0\ref\Homework006_Task41_AboveZero.dll

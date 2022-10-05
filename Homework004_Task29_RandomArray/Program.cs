@@ -6,22 +6,34 @@ Clear();
 
 WriteLine("Print a size of the array : ");
 int size = int.Parse(ReadLine()!);
-int[] array = GetArray(size);
+double[] array = GetArray(size);
 
 PrintArray(array);
 
 
-int[] GetArray(int length)
+// int[] GetArray(int length)
+// {
+//     Random rnd = new Random();
+//     int[] result = new int[length];
+//     for(int i = 0; i < length; i++)
+//     {
+//         result[i] = rnd.Next();
+//     }
+//     return result;
+// }
+
+double[] GetArray(int length)
 {
-    int[] result = new int[length];
+    Random rnd = new Random();
+    double[] result = new double[length];
     for(int i = 0; i < length; i++)
     {
-        result[i] = new Random().Next();
+        result[i] = rnd.Next() + new decimal(rnd.NextDouble(10));
     }
     return result;
 }
 
-void PrintArray(int[] inArray)
+void PrintArray(double[] inArray)
 {
     Write("Random array is [");
     for(int i = 0; i < inArray.Length-1; i++)
