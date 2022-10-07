@@ -1,0 +1,12 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\MyTask\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll
