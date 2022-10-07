@@ -1,0 +1,220 @@
+// Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+// m = 3, n = 4.
+// 0,5 7 -2 -0,2
+// 1 -3,3 8 -9,9
+// 8 7,8 -7,1 9
+
+
+using static System.Console;
+Clear();
+
+Write("Print qty rows, columns of the matrix, minimun and maximum value through space : ");
+int[] parameters = GetArrayFromString(ReadLine()!);
+double[,] matrix = GetMatrixArray(parameters[0], parameters[1], parameters[2], parameters[3]);
+PrintMatrix(matrix);
+
+
+
+
+
+double[,] GetMatrixArray(int rows, int columns, int minValue, int maxValue)
+{
+    double[,] resultMatrix = new double[rows, columns];
+    for (int i = 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+        {
+            resultMatrix[i, j] = new Random().Next(minValue, maxValue + 1) + new Random().NextDouble();
+        }
+
+    }
+    return resultMatrix;
+}
+
+
+void PrintMatrix(double[,] inMatrix)
+{
+    for (int i = 0; i < inMatrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < inMatrix.GetLength(1); j++)
+        {
+            Write($"{Math.Round((inMatrix[i, j]), 2)}\t");
+        }
+        WriteLine();
+    }
+}
+
+int[] GetArrayFromString(string input)
+{
+    string[] parametr = input.Split(" ", System.StringSplitOptions.RemoveEmptyEntries);
+    int[] result = new int[parametr.Length];
+    for (int i = 0; i < parametr.Length; i++)
+    {
+        result[i] = Convert.ToInt32(parametr[i]);
+    }
+    return result;
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+
+// Задача 50. Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, 
+// и возвращает значение этого элемента или же указание, что такого элемента нет.
+// Например, задан массив:
+// 1 4 7 2
+// 5 9 2 3
+// 8 4 2 4
+// 17 -> такого числа в массиве нет
+
+using static System.Console;
+Clear();
+
+Write("Print qty rows, columns of the matrix, minimun and maximum value through space : ");
+int[] parameters = GetArrayFromString(ReadLine()!);
+int[,] matrix = GetMatrixArray(parameters[0], parameters[1], parameters[2], parameters[3]);
+PrintMatrix(matrix);
+Write("Print a number : ");
+int number = Convert.ToInt32(ReadLine()!);
+FindNumber(matrix, number);
+
+
+int[,] GetMatrixArray(int rows, int columns, int minValue, int maxValue)
+{
+    int[,] resultMatrix = new int[rows, columns];
+    for (int i = 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+        {
+            resultMatrix[i, j] = new Random().Next(minValue, maxValue + 1);
+        }
+
+    }
+    return resultMatrix;
+}
+
+
+void PrintMatrix(int[,] inMatrix)
+{
+    for (int i = 0; i < inMatrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < inMatrix.GetLength(1); j++)
+        {
+            Write($"{inMatrix[i, j]}\t");
+        }
+        WriteLine();
+    }
+}
+
+
+int[] GetArrayFromString(string input)
+{
+    string[] parametr = input.Split(" ", System.StringSplitOptions.RemoveEmptyEntries);
+    int[] result = new int[parametr.Length];
+    for (int i = 0; i < parametr.Length; i++)
+    {
+        result[i] = Convert.ToInt32(parametr[i]);
+    }
+    return result;
+}
+
+
+void FindNumber(int[,] ourArray, int ourNumber)
+{
+    foreach (var item in ourArray)
+    {
+        if(item == ourNumber) WriteLine($"There is number {ourNumber} in the matrix");
+        else WriteLine($"There is NO number {ourNumber} in the matrix");
+        return;
+    }
+}
+
+
+// void FindNumber(int[,] ourMatrix, int ourNumber)
+// {
+//     for (int i = 0; i < ourMatrix.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < ourMatrix.GetLength(1); j++)
+//         {
+//             if(ourNumber == ourMatrix[i, j]) WriteLine($"There is number {ourNumber} in the matrix");
+//             else WriteLine($"There is NO number {ourNumber} in the matrix");
+//             return;
+//         }
+//     }
+// }
+
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+
+// Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+// Например, задан массив:
+// 1 4 7 2
+// 5 9 2 3
+// 8 4 2 4
+// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+
+using static System.Console;
+Clear();
+
+Write("Print qty rows, columns of the matrix, minimun and maximum value through space : ");
+int[] parameters = GetArrayFromString(ReadLine()!);
+int[,] matrix = GetMatrixArray(parameters[0], parameters[1], parameters[2], parameters[3]);
+PrintMatrix(matrix);
+GetArithmeticEverageOfColumn(matrix);
+
+
+
+int[,] GetMatrixArray(int rows, int columns, int minValue, int maxValue)
+{
+    int[,] resultMatrix = new int[rows, columns];
+    for (int i = 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+        {
+            resultMatrix[i, j] = new Random().Next(minValue, maxValue + 1);
+        }
+    }
+    return resultMatrix;
+}
+
+
+void PrintMatrix(int[,] inMatrix)
+{
+    for (int i = 0; i < inMatrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < inMatrix.GetLength(1); j++)
+        {
+            Write($"{inMatrix[i, j]}\t");
+        }
+        WriteLine();
+    }
+}
+
+
+int[] GetArrayFromString(string input)
+{
+    string[] parametr = input.Split(" ", System.StringSplitOptions.RemoveEmptyEntries);
+    int[] result = new int[parametr.Length];
+    for (int i = 0; i < parametr.Length; i++)
+    {
+        result[i] = Convert.ToInt32(parametr[i]);
+    }
+    return result;
+}
+
+
+void GetArithmeticEverageOfColumn(int[,] ourMatrix)
+{
+    double[] result = new double[ourMatrix.GetLength(1)];
+    for (int j = 0; j < ourMatrix.GetLength(1) ; j++)
+    {
+        result[j] = 0;
+        for (int i = 0; i < ourMatrix.GetLength(0) ; i++)
+        result[j] += ourMatrix[i, j];
+        result[j] = result[j] / ourMatrix.GetLength(0);
+    }
+    string strArray = String.Join(" ", result);
+    WriteLine();
+    WriteLine($"{strArray}");
+} 

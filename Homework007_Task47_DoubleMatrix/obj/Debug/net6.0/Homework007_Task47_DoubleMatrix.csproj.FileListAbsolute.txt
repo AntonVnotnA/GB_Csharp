@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\bin\Debug\net6.0\Homework007_Task47_DoubleMatrix.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\bin\Debug\net6.0\Homework007_Task47_DoubleMatrix.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\bin\Debug\net6.0\Homework007_Task47_DoubleMatrix.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\bin\Debug\net6.0\Homework007_Task47_DoubleMatrix.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\bin\Debug\net6.0\Homework007_Task47_DoubleMatrix.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\refint\Homework007_Task47_DoubleMatrix.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\Homework007_Task47_DoubleMatrix.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Homework007_Task47_DoubleMatrix\obj\Debug\net6.0\ref\Homework007_Task47_DoubleMatrix.dll
