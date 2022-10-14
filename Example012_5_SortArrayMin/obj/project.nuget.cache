@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVKr0DHBrQU7V3Soo8j4cUZF0yoF5lboFJBeRBDyov7x+B2RW4KBwY82jpoxxUl6oOfqXlQdkJlHZiB9Y8nRag==",
+  "dgSpecHash": "rEzwHxqwRmAqC3LdnQzvA3xeaKRUZ0kG9BXLsJ2dgXcboyDH2am/vT86bdeR2IEwy3lXD/y64GcVNy9bBYEsdg==",
   "success": true,
-  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\Example012_ArraySort.csproj",
+  "projectFilePath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\Example012_ArraySort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

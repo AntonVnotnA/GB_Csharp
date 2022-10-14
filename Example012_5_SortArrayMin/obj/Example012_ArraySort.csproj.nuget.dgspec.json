@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\Example012_ArraySort.csproj": {}
+    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\Example012_ArraySort.csproj": {}
   },
   "projects": {
-    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\Example012_ArraySort.csproj": {
+    "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\Example012_ArraySort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\Example012_ArraySort.csproj",
+        "projectUniqueName": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\Example012_ArraySort.csproj",
         "projectName": "Example012_ArraySort",
-        "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\Example012_ArraySort.csproj",
+        "projectPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\Example012_ArraySort.csproj",
         "packagesPath": "C:\\Users\\aaverin\\.nuget\\packages\\",
-        "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\02_lecture\\C#\\C_sharp_programs\\GB_C_sharp\\Example012_ArraySort\\obj\\",
+        "outputPath": "C:\\WORK_DIR\\Programming\\GeekBrains\\GB_DEVELOPER\\GB_Csharp\\Example012_5_SortArrayMin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aaverin\\AppData\\Roaming\\NuGet\\NuGet.Config"

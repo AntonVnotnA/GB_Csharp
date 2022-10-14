@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\bin\Debug\net6.0\Seminar009_Task3_.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\bin\Debug\net6.0\Seminar009_Task3_.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\bin\Debug\net6.0\Seminar009_Task3_.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\bin\Debug\net6.0\Seminar009_Task3_.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\bin\Debug\net6.0\Seminar009_Task3_.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\refint\Seminar009_Task3_.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\Seminar009_Task3_.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Csharp\Seminar009_Task3_\obj\Debug\net6.0\ref\Seminar009_Task3_.dll
